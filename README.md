@@ -10,4 +10,4 @@ looking to collaborate 💞️ on open source projects to help the community.
 - Instagram: https://www.instagram.com/renan_dorneles.jpg/
 - Linkedin: https://www.linkedin.com/in/renan-dorneles-schuquel-76810a179/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanDrnls&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanDrnls&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
