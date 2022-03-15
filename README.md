@@ -5,16 +5,16 @@
 ![Anime_Gif_Hello](https://gifimage.net/wp-content/uploads/2018/10/anime-finger-spin-gif-7.gif)
 
 - I reside on Brazil 🇧🇷
-- **I'm very interested 👀 in **_WebDevelopment on general.
+- **I'm very interested 👀 in **_WebDevelopment on general_**.
 - Super curious about computation in general.
 - **I’m currently learning 🌱 Vanilla Javascript, NodeJS and SQL to expand my skills and 
-looking to collaborate 💞️ on open source projects to help the community, but i need learn more to do that.
+looking to collaborate 💞️ on open source projects to help the community, but i need learn more to do that.**
 ![Anime_Gif_Susp](http://gifimage.net/wp-content/uploads/2017/08/transparent-anime-gif-4.gif)
 - You can reach me 📫 on:
 
 _[Instagram](https://www.instagram.com/renan_dorneles.jpg/) || [Linkedin](https://www.linkedin.com/in/renan-dorneles-schuquel-76810a179/)
 
-**_Feel free to communicate with me!!!
+**_Feel free to communicate with me!!!_**
 
 ![Anime_Chihiro](https://cdn140.picsart.com/301812832132201.gif?to=min&r=1024);
 
