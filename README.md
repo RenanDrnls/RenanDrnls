@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!)](https://git.io/typing-svg)
 
 - Hi there 👋, I’m @RenanDrnls (Renan Dorneles)
+![Anime_Gif_Hello](https://gifimage.net/wp-content/uploads/2018/10/anime-finger-spin-gif-7.gif)
 - I reside on Brazil 🇧🇷
 - I'm very interested 👀 in WebDevelopment on general.
 - Super curious about computation in general.
