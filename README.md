@@ -2,8 +2,6 @@
 
 **_Hi there 👋, I’m @RenanDrnls (Renan Dorneles)_**
 
-![Anime_Gif_Hello](https://gifimage.net/wp-content/uploads/2018/10/anime-finger-spin-gif-7.gif)
-
 - I reside on Brazil 🇧🇷
 - **I'm very interested 👀 in **_WebDevelopment on general_** **.
 - Super curious about computation in general.
