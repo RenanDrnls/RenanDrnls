@@ -20,4 +20,4 @@ _[Instagram](https://www.instagram.com/renan_dorneles.jpg/) || [Linkedin](https:
 
 ![Anime_Zenitsu_Thunder](https://media1.tenor.com/images/0dd77cfab0e820017bb078f029817883/tenor.gif?itemid=15911029)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanDrnls&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanDrnls&exclude_repo=to-do-list,own-site-demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suicideDuck22&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suicideDuck22&exclude_repo=to-do-list,own-site-demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
