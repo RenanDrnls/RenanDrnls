@@ -7,6 +7,7 @@
 - Super curious about computation in general.
 - **I’m currently learning 🌱 C language, to expand my skills and 
 looking to collaborate 💞️ on open source projects to help the community, but i need learn more to do that.**
+
 ![Anime_Gif_Susp](http://gifimage.net/wp-content/uploads/2017/08/transparent-anime-gif-4.gif)
 - You can reach me 📫 on:
 
