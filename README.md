@@ -6,7 +6,7 @@
   - I reside on Brazil 🇧🇷
   - **I'm very interested on all programming languages.**
   - Super curious about computation in general.
-  - **I’m currently learning 🌱 JavaScript language, to expand my skills and 
+  - **I’m currently learning 🌱 TypeScript language, to expand my skills and 
   looking to collaborate 💞️ on open source projects to help the community, but i need learn more to do that.**
 
   ---
