@@ -57,3 +57,5 @@
       </i>
     </strong>
   </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suicideDuck22&theme=tokyonight&hide=html,css,ejs,powershell)
