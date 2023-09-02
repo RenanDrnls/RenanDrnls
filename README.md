@@ -58,4 +58,4 @@
     </strong>
   </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suicideDuck22&theme=tokyonight&hide=html,css,ejs,powershell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonakai-s&theme=tokyonight&hide=html,css,ejs,powershell)
