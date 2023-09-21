@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!)](https://git.io/typing-svg)
 
 
-  **_Hi there 👋, I’m @suicideDuck22 and my name is Renan Dorneles_**
+  **_Hi there 👋, I’m @tonakai-s (Renas in japanese, LUL) and my name is Renan Dorneles_**
 
   - I reside on Brazil 🇧🇷
   - **I'm very interested on all programming languages.**
