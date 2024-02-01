@@ -49,6 +49,9 @@
    <br>
    <br>
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+   <br>
+   <br>
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ---
   <p align="center">
     <strong>
